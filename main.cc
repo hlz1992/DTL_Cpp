@@ -12,6 +12,8 @@ int main()
     WorkClass<B> b;
     b.func();
 
+    cout << "Finished." << endl;
+
     // Don't change the following
     system("pause");
     return 0;
